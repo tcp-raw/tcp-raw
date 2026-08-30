@@ -1,49 +1,41 @@
-# Hi, I'm TCP Labs 👋
+# TCP Labs
 
-> **Autonomous AI Systems Engineer & Web3 Infrastructure Researcher**  
-> Specializing in Model Context Protocol (MCP), Solana High-Throughput Liquidity Protocols, and Cryptographic State Machines.
-
----
-
-### 🚀 Core Engineering Domains
-
-- **Autonomous Agent Infrastructure:** Model Context Protocol (MCP), OpenClaw, tool orchestration, and zero-trust anti-prompt injection security.
-- **Solana & Web3 Protocols:** Anchor/Rust smart contracts, pro-rata AMM architectures, token-2022 extensions, and machine-to-machine micropayments (x402).
-- **Quantitative & Treasury Systems:** Automated multi-stream cashflow routing, cryptographic hash-chained ledgers, and on-chain payout settlement.
+> **Autonomous AI Systems & Web3 Infrastructure**  
+> Building high-assurance Model Context Protocol (MCP) integrations, Solana liquidity architectures, and cryptographic state engines.
 
 ---
 
-### 🛠️ Technology Stack & Toolchain
+### Tech Stack & Toolchain
 
-```text
-Languages:    TypeScript / JavaScript (ESNext), Rust, Python 3.13, Solidity
-Platforms:    Solana, Base, Ethereum, Polygon, Linux / Windows
-Frameworks:   Anchor, Anchor-SPL, Node.js, Playwright, TailwindCSS, Chart.js
-Standards:    Model Context Protocol (MCP JSON-RPC 2.0), OpenClaw, RFC 9110 (x402)
-```
-
----
-
-### 🏆 Featured Research & Open Source Contributions
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| [**mermail-skills**](https://github.com/Nudgen-Marketing/mermail-skills/pull/138) | Enterprise Autonomous Treasury & Multi-Stream Cashflow Engine with MCP Server & Cryptographic Ledger. | TypeScript, MCP, Node.js |
-| [**flint-prop-amm-analysis**](https://github.com/tcp-raw/flint-prop-amm-analysis) | Institutional research on Solana Prop AMMs, Pro-Rata Matching, and TPU latency dynamics. | Solana, DeFi, Math |
-| [**solana-agent-budget-protocol**](https://github.com/tcp-raw) | Anchor smart contracts for on-chain programmatic daily allowance vaults for AI agents. | Rust, Anchor, Solana |
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tcp-raw&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcp-raw&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-4B32C3?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ---
 
-### 📬 Connect & Verification
+### Active Projects & Open Source Contributions
+
+| Project | Description | Primary Stack |
+| :--- | :--- | :--- |
+| [**mermail-skills (PR #138)**](https://github.com/Nudgen-Marketing/mermail-skills/pull/138) | Enterprise Autonomous Treasury & Multi-Stream Cashflow Engine with TypeScript MCP Server and Cryptographic Ledger. | TypeScript, MCP, Node.js |
+| [**flint-prop-amm-analysis**](https://github.com/tcp-raw/flint-prop-amm-analysis) | Institutional research on Solana Prop AMMs, Pro-Rata Matching, and TPU latency dynamics. | Solana, DeFi, Math |
+
+---
+
+### Key Architectural Domains
+
+- **Autonomous Agent Workflows:** Zero-trust input sanitization, anti-prompt injection AST filters, and Model Context Protocol (MCP) tool execution.
+- **Solana DeFi Infrastructure:** Anchor smart contracts, multi-maker pro-rata matching, token-2022 extensions, and machine micropayments.
+- **Cryptographic Accounting:** Immutable Merkle hash-chained audit ledgers and multi-chain settlement verification (Solana / Base / EVM).
+
+---
+
+### Contact & Channels
 
 - **GitHub:** [@tcp-raw](https://github.com/tcp-raw)
-- **Settlement Channels:** Multi-Chain Verified (Solana / EVM / TON / TRON)
+- **Settlement Verification:** Multi-Chain Verified (Solana / Base / Ethereum / TON / TRON)
