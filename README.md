@@ -1,63 +1,64 @@
 <div align="center">
 
-# ⚡ TCP RAW
-### Autonomous AI Systems • Web3 Protocols • High-Performance Infrastructure
+# TCP Raw
+### Senior Systems Engineer & Web3 Protocol Architect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building_Autonomous_Agents-success?style=for-the-badge&color=10B981" />
-  <img src="https://img.shields.io/badge/Ecosystem-Solana_&_EVM-blueviolet?style=for-the-badge&color=8B5CF6" />
-  <img src="https://img.shields.io/badge/Focus-Model_Context_Protocol-informational?style=for-the-badge&color=06B6D4" />
+  <img src="https://img.shields.io/badge/Focus-High--Throughput_DeFi-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-Rust_•_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Shipping_Production_Code-10B981?style=for-the-badge" />
 </p>
 
 ---
 
 </div>
 
-### 👨‍💻 About Me
+### About Me
 
-```yaml
-identity: TCP Raw
-role: Autonomous Systems Engineer & Protocol Researcher
-core_interests:
-  - Model Context Protocol (MCP) & Agent Swarms
-  - Solana High-Throughput Liquidity & Prop AMM Architecture
-  - Cryptographic State Machines & Automated Treasury Systems
-current_status: Shipping production-grade open-source skills & Web3 analytics
+I am a software engineer and distributed systems architect specializing in high-throughput blockchain infrastructure, low-latency financial tooling, and robust open-source protocols.
+
+```json
+{
+  "engineer": "TCP Raw",
+  "focus": ["Solana Program Development", "Market Making & Prop AMM Architecture", "Enterprise Tooling"],
+  "philosophy": "Deterministic execution, cryptographic safety, and minimal operational overhead",
+  "primary_languages": ["Rust", "TypeScript", "Python", "Solidity"]
+}
 ```
 
 ---
 
-### 🛠️ Languages & Tech Stack
+### Core Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anchor-14B8A6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Featured Repositories & Research
+### Featured Projects & Institutional Research
 
-| Project | Highlights | Tech Stack |
+| Repository / Research | Overview | Core Stack |
 | :--- | :--- | :--- |
-| 🏦 [**mermail-skills (PR #138)**](https://github.com/Nudgen-Marketing/mermail-skills/pull/138) | Enterprise Autonomous Treasury Engine with full TypeScript MCP Server, Cryptographic Ledger, and live UI Dashboard. | `TypeScript` `MCP` `Node.js` |
-| ⚡ [**flint-prop-amm-analysis**](https://github.com/tcp-raw/flint-prop-amm-analysis) | Institutional deep dive on Solana Prop AMM dynamics, Pro-Rata Matching, and TPU latency benchmarks. | `Solana` `DeFi` `Math` |
+| [**mermail-skills (PR #138)**](https://github.com/Nudgen-Marketing/mermail-skills/pull/138) | Enterprise Treasury & Cashflow Engine featuring TypeScript MCP Server, Merkle-chained Cryptographic Ledger, and 21 automated unit tests. | `TypeScript` `Node.js` `Crypto` |
+| [**flint-prop-amm-analysis**](https://github.com/tcp-raw/flint-prop-amm-analysis) | Quantitative research paper on Solana Prop AMM dynamics, Pro-Rata Matching, and TPU latency bottlenecks. | `Solana` `DeFi` `Math` |
 
 ---
 
-### 📊 GitHub Activity
+### Areas of Expertise
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tcp-raw&theme=tokyonight&hide_border=true" />
-</div>
+- **High-Performance Blockchain Architecture:** Solana Anchor programs, Token-2022 extensions, TPU/QUIC network optimizations.
+- **Quantitative Financial Systems:** Multi-maker pro-rata matching engines, cashflow allocation algorithms, and on-chain payout settlement.
+- **High-Assurance Engineering:** Zero-trust sanitization, immutable cryptographic ledgers, and automated CI/CD test pipelines.
 
 ---
 
 <div align="center">
-  <sub>Built with precision and autonomy • Verified on Solana & Multi-Chain Networks</sub>
+  <sub>TCP Raw • Protocol Engineering & Open Source Research</sub>
 </div>
