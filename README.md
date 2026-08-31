@@ -42,12 +42,14 @@ I am a software engineer and distributed systems architect specializing in high-
 
 ---
 
-### Featured Projects & Institutional Research
+### Featured Repositories & Open Source Projects
 
-| Repository / Research | Overview | Core Stack |
+| Project | Description | Core Technologies |
 | :--- | :--- | :--- |
-| [**mermail-skills (PR #138)**](https://github.com/Nudgen-Marketing/mermail-skills/pull/138) | Enterprise Treasury & Cashflow Engine featuring TypeScript MCP Server, Merkle-chained Cryptographic Ledger, and 21 automated unit tests. | `TypeScript` `Node.js` `Crypto` |
-| [**flint-prop-amm-analysis**](https://github.com/tcp-raw/flint-prop-amm-analysis) | Quantitative research paper on Solana Prop AMM dynamics, Pro-Rata Matching, and TPU latency bottlenecks. | `Solana` `DeFi` `Math` |
+| [**mermail-skills (PR #138)**](https://github.com/Nudgen-Marketing/mermail-skills/pull/138) | Enterprise Autonomous Treasury Engine with TypeScript MCP Server, Merkle-chained Cryptographic Ledger, and 21 automated unit tests. | `TypeScript` `MCP` `Node.js` |
+| [**flint-prop-amm-analysis**](https://github.com/tcp-raw/flint-prop-amm-analysis) | Institutional research on Solana Prop AMM dynamics, Multi-Maker Pro-Rata Matching, and TPU latency benchmarks. | `Solana` `DeFi` `Math` |
+| [**solana-agent-vault**](https://github.com/tcp-raw/solana-agent-vault) | On-Chain Programmatic Daily Allowance & Ephemeral Session Vaults for Autonomous AI Agents on Solana. | `Rust` `Anchor` `Token-2022` |
+| [**crypto-guard-engine**](https://github.com/tcp-raw/crypto-guard-engine) | Multi-Chain Token Risk, Honeypot & Smart Contract Vulnerability Scanner (Solana & EVM). | `Python` `Security` `DeFi` |
 
 ---
 
