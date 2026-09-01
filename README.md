@@ -4,9 +4,9 @@
 ### Senior Systems Engineer & Web3 Protocol Architect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-High--Throughput_DeFi-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-High--Speed_Trading-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack-Rust_•_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Shipping_Production_Code-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Terminal-Live_on_Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
 ---
@@ -15,16 +15,25 @@
 
 ### About Me
 
-I am a software engineer and distributed systems architect specializing in high-throughput blockchain infrastructure, low-latency financial tooling, and robust open-source protocols.
+Senior systems engineer and distributed protocols architect building low-latency on-chain execution infrastructure, quantitative analytics engines, and Model Context Protocol (MCP) integrations.
 
 ```json
 {
   "engineer": "TCP Raw",
-  "focus": ["Solana Program Development", "Market Making & Prop AMM Architecture", "Enterprise Tooling"],
-  "philosophy": "Deterministic execution, cryptographic safety, and minimal operational overhead",
-  "primary_languages": ["Rust", "TypeScript", "Python", "Solidity"]
+  "specialization": ["Solana DEX Execution", "Prop AMM Architecture", "Enterprise Agent Treasury"],
+  "standards": ["Jupiter v6", "Model Context Protocol (MCP)", "Token-2022"],
+  "stack": ["Rust", "TypeScript", "Python", "Anchor"]
 }
 ```
+
+---
+
+### Core Flagship Projects
+
+| Flagship Project | Live Access & Repository | Key Architecture |
+| :--- | :--- | :--- |
+| 🚀 **SolQ Trading Terminal** | [![Telegram](https://img.shields.io/badge/Telegram_Bot-@Solq__bot-229ED9?style=flat-square&logo=telegram)](https://t.me/Solq_bot) • [**Source Code**](https://github.com/tcp-raw/crypto-guard-engine) | 1-Click Fast Trading (Jupiter v6), Non-Custodial Ed25519 Wallets, Whale Radar, and AST Security Scanner. |
+| 🏦 **Mermail Autonomous Treasury** | [![GitHub PR](https://img.shields.io/badge/GitHub_PR-#138_Live-10B981?style=flat-square&logo=github)](https://github.com/Nudgen-Marketing/mermail-skills/pull/138) • [**Skill Directory**](https://github.com/tcp-raw/mermail-skills) | Enterprise Cashflow Engine with TypeScript MCP Server, Cryptographic Merkle Ledger, and 21 automated unit tests. |
 
 ---
 
@@ -37,30 +46,10 @@ I am a software engineer and distributed systems architect specializing in high-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Anchor-14B8A6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
 
-### Featured Repositories & Open Source Projects
-
-| Project | Description | Core Technologies |
-| :--- | :--- | :--- |
-| [**mermail-skills (PR #138)**](https://github.com/Nudgen-Marketing/mermail-skills/pull/138) | Enterprise Autonomous Treasury Engine with TypeScript MCP Server, Merkle-chained Cryptographic Ledger, and 21 automated unit tests. | `TypeScript` `MCP` `Node.js` |
-| [**flint-prop-amm-analysis**](https://github.com/tcp-raw/flint-prop-amm-analysis) | Institutional research on Solana Prop AMM dynamics, Multi-Maker Pro-Rata Matching, and TPU latency benchmarks. | `Solana` `DeFi` `Math` |
-| [**solana-agent-vault**](https://github.com/tcp-raw/solana-agent-vault) | On-Chain Programmatic Daily Allowance & Ephemeral Session Vaults for Autonomous AI Agents on Solana. | `Rust` `Anchor` `Token-2022` |
-| [**crypto-guard-engine**](https://github.com/tcp-raw/crypto-guard-engine) | Multi-Chain Token Risk, Honeypot & Smart Contract Vulnerability Scanner (Solana & EVM). | `Python` `Security` `DeFi` |
-
----
-
-### Areas of Expertise
-
-- **High-Performance Blockchain Architecture:** Solana Anchor programs, Token-2022 extensions, TPU/QUIC network optimizations.
-- **Quantitative Financial Systems:** Multi-maker pro-rata matching engines, cashflow allocation algorithms, and on-chain payout settlement.
-- **High-Assurance Engineering:** Zero-trust sanitization, immutable cryptographic ledgers, and automated CI/CD test pipelines.
-
----
-
 <div align="center">
-  <sub>TCP Raw • Protocol Engineering & Open Source Research</sub>
+  <sub>TCP Raw • Protocol Engineering & Institutional Web3 Systems</sub>
 </div>
